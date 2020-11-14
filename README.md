@@ -1,4 +1,4 @@
-# OpenMAS (Open Mult-Agent System)
+# OpenMAS (Open Multi-Agent System)
 
 The OpenMAS Project explores how to build robust intelligent agents which can interact with each other to solve complex problems.
 
@@ -27,6 +27,8 @@ It follows the Agent-Oriented Software Engineering (AOSE) paradigm, which guides
 * Communication: NETWORK | NAME PIPES | Custom
     * Interaction Protocols
   
+![image](https://user-images.githubusercontent.com/68153713/99147769-b4518e80-26d7-11eb-87f3-49e39884633d.png)
+
 ## Installation
 Just download and unzip this project.
 
